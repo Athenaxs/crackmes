@@ -11,3 +11,8 @@ Don't ruin it for yourself by reading the source code! Enjoy.
 These CRACKMEs are written in C. I intend soon to rewrite them all in Rust and give a
 short tutorial on cracking Rust programs.
 
+## Devtion Edit:
+
+this is a simpe things to learn about re.
+thanks to @NoraCodes
+
