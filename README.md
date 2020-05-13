@@ -14,5 +14,5 @@ short tutorial on cracking Rust programs.
 ## Devtion Edit:
 
 this is a simpe things to learn about re.
-thanks to @NoraCodes
+thanks to [@NoraCodes](https://github.com/NoraCodes)
 
